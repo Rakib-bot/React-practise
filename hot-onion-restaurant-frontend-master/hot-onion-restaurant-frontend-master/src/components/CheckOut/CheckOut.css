@@ -1,0 +1,16 @@
+.shipment {
+  min-height: 600px;
+}
+.delivery-info {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.form-group {
+  padding: 10px;
+}
+.form-group .error {
+  margin-left: -1px !important;
+}
+.right {
+  margin-top: 220px;
+}
